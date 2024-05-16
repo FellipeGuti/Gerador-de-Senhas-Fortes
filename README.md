@@ -14,8 +14,8 @@
 
 ## Features
 
-* Com __HTML__ montamos toda estrutura da página e controlamos o slide com tamanho da senha;
+* Com __HTML__ montei toda estrutura da página, sendo possível controlar o slide que determina o tamanho da senha;
 
-* Com o __CSS__ observamos o layout do Projeto juntamente com detalhes nos botões, Hover etc; e
+* Com o __CSS__ observamos o layout do Projeto juntamente com detalhes nos botões, Hover e responsividade; e
 
 * Com __JavaScript__ fazemos toda parte funcional do Gerador , desde escolher e monstrar a senha por completo e ainda usamos o JS para copiar o resultado, apenas clicando na senha gerada.
