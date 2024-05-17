@@ -1,4 +1,4 @@
-🔐 # Gerador de Senhas Fortes
+# Gerador de Senhas Fortes 🔐
 
  __Gerador de Senhas Fortes__,  Solução Web com objetivo de facilitar a criação aleatória de senha com Mínimo de 5 e Máximo de 25 caracteres.
  A criação da senha acontece com uma seleção aleatória entre __Números, Letras (Maiúscula e minúscula), pontuações especiais etc...__
